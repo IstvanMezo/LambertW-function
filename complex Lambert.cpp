@@ -1,5 +1,6 @@
-// complex Lambert.cpp : Defines the entry point for the console application.
-//
+// complex Lambert.cpp
+// See README.md for details
+//Remove the line #include "stdafx.h" if you use other system than Microsoft VC++.
 
 #include "stdafx.h"
 #include <iostream>
