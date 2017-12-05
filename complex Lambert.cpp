@@ -1,6 +1,6 @@
 // complex Lambert.cpp
 // See README.md for details
-//Remove the line #include "stdafx.h" if you use other system than Microsoft VC++.
+// Remove the line #include "stdafx.h" if you use other system than Microsoft VC++.
 
 #include "stdafx.h"
 #include <iostream>
